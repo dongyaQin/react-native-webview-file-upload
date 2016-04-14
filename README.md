@@ -15,3 +15,5 @@ First, make sure you have already built the running environment of react native.
 3. npm install
 4. react-native run-android
 ```
+
+Welcome fork the project and pull request to make it better!
