@@ -27,7 +27,7 @@ project.xcworkspace
 *.iml
 .gradle/
 
-
+.idea/
 # node.js
 #
 node_modules/
