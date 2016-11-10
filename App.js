@@ -3,9 +3,9 @@
  * https://github.com/facebook/react-native
  */
 
-import React, {
-    Component,
-    Dimensions,
+import React, {Component} from 'react';
+import {
+    Dimensions
 } from 'react-native';
 
 import AndroidWebView from './AndroidWebView'

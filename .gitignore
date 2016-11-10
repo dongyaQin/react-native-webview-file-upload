@@ -22,13 +22,34 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-# Android studio
+# Android/IJ
 #
-*.iml
-.gradle/
+.idea
+.gradle
+local.properties
 
-.idea/
 # node.js
 #
 node_modules/
 npm-debug.log
+
+# BUCK
+buck-out/
+\.buckd/
+android/app/libs
+android/keystores/debug.keystore
+
+
+# Mietercasting-specific files
+apikey.txt
+tokens.txt
+tokens-ios.txt
+android/app/my-release-key.keystore
+env/
+coverage/
+fragen.txt
+rotationListeners.txt
+tasks.txt
+*.keystore
+*.pem
+*.cer
