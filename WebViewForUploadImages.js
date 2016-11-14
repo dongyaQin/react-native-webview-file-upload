@@ -10,7 +10,7 @@ import {
 
 import AndroidWebView from './AndroidWebView'
 
-export default class App extends Component {
+export default class WebViewForUploadImages extends Component {
   render() {
     return (
       <AndroidWebView
