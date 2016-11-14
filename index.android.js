@@ -12,13 +12,13 @@ import{
     Dimensions,
 } from 'react-native';
 
-import App from './App'
+import WebViewForUploadImages from './WebViewForUploadImages'
 
 class WebviewFileUploadAndroid extends Component {
     render() {
         return (
             <View style={{height: Dimensions.get('window').height}}>
-                <App />
+                <WebViewForUploadImages />
             </View>
         );
     }

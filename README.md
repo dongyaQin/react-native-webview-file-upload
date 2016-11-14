@@ -3,7 +3,7 @@ Android WebView can't open a dialog window for uploading file, but this demo can
 
 show file chooser | choose file finished
 ------- | ---- 
-<img title="iOS" src="https://github.com/dongyaQin/react-native-webview-file-upload/blob/master/images/show-file-chooser.png"> | <img title="Android" src="https://github.com/dongyaQin/react-native-webview-file-upload/blob/master/images/choose-file-finished.png">
+<img title="iOS" src="https://github.com/haiyangjiajian/react-native-webview-file-upload/blob/master/show-file-chooser.png"> | <img title="Android" src="https://github.com/haiyangjiajian/react-native-webview-file-upload/blob/master/choose-file-finished.png">
 
 ## Install
 
