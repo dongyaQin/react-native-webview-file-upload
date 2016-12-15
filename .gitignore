@@ -22,11 +22,13 @@ DerivedData
 *.xcuserstate
 project.xcworkspace
 
-# Android/IJ
+# Android/IntelliJ
 #
+build/
 .idea
 .gradle
 local.properties
+*.iml
 
 # node.js
 #
@@ -37,7 +39,6 @@ npm-debug.log
 buck-out/
 \.buckd/
 android/app/libs
-android/keystores/debug.keystore
 
 
 # Mietercasting-specific files
@@ -53,3 +54,4 @@ tasks.txt
 *.keystore
 *.pem
 *.cer
+*.keystore

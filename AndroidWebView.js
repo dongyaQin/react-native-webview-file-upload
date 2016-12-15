@@ -156,6 +156,14 @@ class AndroidWebView extends React.Component {
          * Make upload file available
          */
         uploadEnabledAndroid: PropTypes.bool,
+
+        /**
+         * Boolean that sets whether JavaScript running in the context of a file
+         * scheme URL should be allowed to access content from any origin.
+         * Including accessing content from other file scheme URLs
+         * @platform android
+         */
+        allowUniversalAccessFromFileURLs: PropTypes.bool,
     };
 
     static defaultProps = {
